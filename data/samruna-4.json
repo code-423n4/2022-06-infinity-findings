@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "samruna",
+  "address": "0x72E772A305cA37321e2461770896F607F6B41844",
+  "risk": "2",
+  "title": "isUserOrderNonceExecutedOrCancelled is never set to false",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/4"
+}
