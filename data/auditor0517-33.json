@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "auditor0517",
+  "address": "0x0FCf87f1cA8Ea435F2517880A33329005c464127",
+  "risk": "3",
+  "title": "Users could lose an unvested amount permanently after InfinityStaker.unstake().",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/33"
+}
