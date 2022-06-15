@@ -73,6 +73,8 @@ When you have marked all duplicates and labelled all findings, drop the C4 team 
 
 ## Share your mitigation of findings
 
+*Note: this section does not need to be completed in order to move to the judging phase. You can continue work on mitigations while judging is occurring and even beyond that. Ultimately we won't publish the final audit report until you give us the ok.*
+
 For each non-duplicate finding which you have confirmed, you will want to mitigate the issue before the contest report is made public.
 
 As you undertake that process, we request that you take the following steps:
