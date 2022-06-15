@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "byterocket",
+  "address": "0xee680e5c2C5251261061F12BA3a5c470D2B6AE83",
+  "risk": "2",
+  "title": "Users can loose ETH buying NFT's using `InfinityExchange#takeOrders()` and `InfinityExchange#takeMultipleOneOrders()`",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/29"
+}
