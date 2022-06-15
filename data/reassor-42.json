@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "reassor",
+  "address": "0xd822554aBe37B52E34D0C599EC828dC8C46721FF",
+  "risk": "3",
+  "title": "InfinityStaker owner can steal user's tokens via front-running",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/42"
+}
