@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "byterocket",
+  "address": "0xee680e5c2C5251261061F12BA3a5c470D2B6AE83",
+  "risk": "3",
+  "title": "Functions `InifinityExchange#rescueETH()` and `InfinityStaker#rescueETH()` do not rescue ETH held in contract",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/28"
+}
