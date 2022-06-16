@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "KIntern",
+  "address": "0x77Af053f57bd53852164cF9E066787DB51beAE5A",
+  "risk": "2",
+  "title": "User can't match order if they create a `MakerOrder` which contains 2 `OrderItem` in the same collection ",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/56"
+}
