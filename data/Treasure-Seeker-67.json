@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "Treasure-Seeker",
+  "address": "0xDc8Eb8d2D1babD956136b57B0B9F49b433c019e3",
+  "risk": "3",
+  "title": "Non-deterministic Nonce Leading to Nonce Collisions / De-Listings",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/67"
+}
