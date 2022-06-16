@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "0xkowloon",
+  "address": "0xCD980B28732be9DdfaAF2b12b292Bb07ebc86889",
+  "risk": "3",
+  "title": "The function rescueETH does not withdraw ETH stored in the contracts.",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/70"
+}
