@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "0xDjango",
+  "address": "0x886241e011A6C148bdD96B097EB27962f8A1c5F0",
+  "risk": "2",
+  "title": "unstake() function should not be behind whenNotPaused modifier",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/54"
+}
