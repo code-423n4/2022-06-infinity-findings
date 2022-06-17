@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "antonttc",
+  "address": "0x5599b4EAdDd319e2F462b27fC8378B0BFaD309CA",
+  "risk": "3",
+  "title": "Execution doesn’t revert on non ERC721 or EIP1155 collectionId",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/84"
+}
