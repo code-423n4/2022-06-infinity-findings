@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "sorrynotsorry",
+  "address": "0x6262f720679C04cc7f2a14c0c03486D0287c4853",
+  "risk": "2",
+  "title": "Existing orders should not include removed currency",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/101"
+}
