@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "rajatbeladiya",
+  "address": "0x6840a08B4e51Cd863BbE6c902b60C59dBCA85f97",
+  "risk": "3",
+  "title": "rescueETH will not rescue any ETH",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/83"
+}
