@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "0xalpharush",
+  "address": "0x091dA6d5845B18D4147B45472497fF91b768C132",
+  "risk": "2",
+  "title": "Malicious tokens can be used to grief buyers and cause loss of their WETH balance",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/74"
+}
