@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "sseefried",
+  "address": "0x195c2f55EE2110590eead9a9F95c245A2BacD327",
+  "risk": "2",
+  "title": "Seller can grief buyers when selling in ETH currency when `InfiniteExchange._transferFees` is called",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/75"
+}
