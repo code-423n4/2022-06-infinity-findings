@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "Allowing the protocol fee in the InfinityExchange contract to be higher than 100% will result in a DOS",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/79"
+}
