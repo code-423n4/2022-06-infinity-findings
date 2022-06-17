@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "Cityscape",
+  "address": "0x46686E5420B34d5950d37855291d970fBa5527b6",
+  "risk": "2",
+  "title": "Logic Error in advanceEpoch()",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/93"
+}
