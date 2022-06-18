@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "user lose some fund whenever they call takeMultipleOneOrders() or takeOrders() to buy tokens with ETH, because the exact price of orders can change and users need to send extra ETH to make sure transaction don't fail and contract don't send back extra ETH",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/121"
+}
