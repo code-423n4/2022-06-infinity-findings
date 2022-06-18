@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "matchOneToManyOrders/matchOrders/takeOrders -  Lose of funds in matchOneToManyOrders() and takeOrders() and matchOrders() because code don't check that different NFT collections in one order are different, so it's possible to sell one id of collection multiple time instead of selling multiple id of collection one time in one order (lack of checks in doItemsIntersect())",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/137"
+}
