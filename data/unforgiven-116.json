@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "_updateUserStakedAmounts() is not setting userstakedAmounts[user][].timestamp=0 when amount if 0 in some cases",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/116"
+}
