@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "rescueETH() logic is wrong and can't rescue ETH fees, and ETH fees would stuck in contract forever",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/114"
+}
