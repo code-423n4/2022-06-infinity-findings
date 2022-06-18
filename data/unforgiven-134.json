@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "Fund lose in matchOneToManyOrders() because code don't check that different many orders has different NFT IDS, so it's possible to sell one id multiple time instead of selling multiple id one time",
+  "issueId": 134,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/134"
+}
