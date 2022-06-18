@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "rescueTokens() don't check that destination!=0 and fund would be lost if owner send wrong data",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/111"
+}
