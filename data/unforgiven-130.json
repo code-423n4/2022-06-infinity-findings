@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "fund lose or griefing in all order matching functions [matchOneToOneOrders(), matchOneToManyOrders(), matchOrders(), takeMultipleOneOrders(), takeOrders()] because condition (seller != buyer ) is not checked in any of them",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/130"
+}
