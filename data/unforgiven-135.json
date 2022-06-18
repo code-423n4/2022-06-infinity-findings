@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "Lose of funds in matchOneToManyOrders() and takeOrders() and matchOrders() because code don't check that different ids in one collection are different, so it's possible to sell one id multiple time instead of selling multiple id one time in one collection of order (lack of checks in doTokenIdsIntersect() especially for ERC1155 tokens)",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/135"
+}
