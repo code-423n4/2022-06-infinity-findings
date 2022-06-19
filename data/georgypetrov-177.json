@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "georgypetrov",
+  "address": "0x0ed7C72398379F60CeEC0659E3AD6bFdBAa465a8",
+  "risk": "2",
+  "title": "Possible DoS or very high penalties on rage quit",
+  "issueId": 177,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/177"
+}
