@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "obtarian",
+  "address": "0x2dc3f3d281d35fB7c29Aa2426D6a6ae2961B2A4F",
+  "risk": "2",
+  "title": "ETH mistakenly sent over with ERC20 based takeOrders and takeMultipleOneOrders calls will be lost",
+  "issueId": 346,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/346"
+}
