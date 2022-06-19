@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "horsefacts",
+  "address": "0x79d31bFcA5Fda7A4F15b36763d2e44C99D811a6C",
+  "risk": "2",
+  "title": "Accidental ETH transfers to `InfinityStaker` cannot be withdrawn",
+  "issueId": 246,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/246"
+}
