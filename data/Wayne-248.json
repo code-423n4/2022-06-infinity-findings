@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "Wayne",
+  "address": "0xfB767Bcde95F4a30231c31E9aC53cCAe62fe2b98",
+  "risk": "3",
+  "title": "The timestamp of the specified duration is reset after the position is added via stake().",
+  "issueId": 248,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/248"
+}
