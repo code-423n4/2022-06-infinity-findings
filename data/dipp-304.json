@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "dipp",
+  "address": "0x675454Ae78d25632fC26763Fa9CB72a99Cb0A36e",
+  "risk": "2",
+  "title": "User may lose funds if ```msg.value > totalPrice```",
+  "issueId": 304,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/304"
+}
