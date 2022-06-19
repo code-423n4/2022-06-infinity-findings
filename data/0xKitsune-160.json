@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "0xKitsune",
+  "address": "0x08f613Db560a38c330414062e1Aac22e5f80876F",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/160"
+}
