@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833D7Dee997d7D347e2634C9CEF",
+  "risk": "2",
+  "title": "EIP-1271 Signature may not be able to split into r, s, v. These signature can't be used with Infinity NFT marketplace at all while it doesn't break any standard.",
+  "issueId": 250,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/250"
+}
