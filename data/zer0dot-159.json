@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "zer0dot",
+  "address": "0xF4F56fA0D045ae0e6Ba8f82e2C32887FE0B152Ea",
+  "risk": "2",
+  "title": "A Compromised Owner Can Freeze Functionality",
+  "issueId": 159,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/159"
+}
