@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "joestakey",
+  "address": "0xA9c2ce9dcc090af921FB0a1F874962F65A4b6D9b",
+  "risk": "2",
+  "title": "NO TIMELOCK ON `setProtocolFee()` CAN LEAD TO SELLERS LOSING THEIR NFTs",
+  "issueId": 302,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/302"
+}
