@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "GreyArt",
+  "address": "0x07f0571566E4b07eA825798A70Fd67fE79077f4E",
+  "risk": "2",
+  "title": "Maximum settable threshold of type(uint16).max might be insufficient",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/213"
+}
