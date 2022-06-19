@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "Waze",
+  "address": "0xB649642DEe8E9E25b21cfc67DA7DCf86828dd60D",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 207,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/207"
+}
