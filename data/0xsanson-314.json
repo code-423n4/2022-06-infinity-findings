@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "0xsanson",
+  "address": "0x4DF37CC3C48eC3EB689c8Bf0D91249cE2506f73B",
+  "risk": "3",
+  "title": "`matchOneToManyOrders` doesn't consider `numItems` of the orders",
+  "issueId": 314,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/314"
+}
