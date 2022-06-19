@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "Czar102",
+  "address": "0x52cAC9F2df3068107c95DB3Acf3f6B1256d75E45",
+  "risk": "2",
+  "title": "`advanceEpoch()` sets timestamp to a too large value",
+  "issueId": 292,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/292"
+}
