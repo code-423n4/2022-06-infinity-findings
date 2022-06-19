@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "StErMi",
+  "address": "0x2272a321f0151189d66881f5C0971899897eF71B",
+  "risk": "2",
+  "title": "`INFINITY_TREASURY` equal to `address(0)` will make the `rageQuit`  function always revert",
+  "issueId": 233,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/233"
+}
