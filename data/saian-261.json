@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "saian",
+  "address": "0x41866fbD59371800a7A6A2e314641CD69Cd7247D",
+  "risk": "2",
+  "title": "`rescueEth` does not transfer ether in contract",
+  "issueId": 261,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/261"
+}
