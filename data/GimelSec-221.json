@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "Sellers may lose tokens because `numConstructedItems` may be greater than `sell.constraints[0]`",
+  "issueId": 221,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/221"
+}
