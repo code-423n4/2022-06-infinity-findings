@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "Users will lose funds forever when calling `unstake`",
+  "issueId": 223,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/223"
+}
