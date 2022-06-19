@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "Taker can provide several instances of the cheapest ERC-1155 item in a multi item bundle",
+  "issueId": 332,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/332"
+}
