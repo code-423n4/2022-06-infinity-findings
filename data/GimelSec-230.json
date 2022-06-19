@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "It should prevent users from sending more native tokens",
+  "issueId": 230,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/230"
+}
