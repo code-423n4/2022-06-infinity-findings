@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "peritoflores",
+  "address": "0xCC9C3D6ed709D47255815FF5b5BB17A745B7CEED",
+  "risk": "2",
+  "title": "Admin can set arbitrarily high exchange fees",
+  "issueId": 269,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/269"
+}
