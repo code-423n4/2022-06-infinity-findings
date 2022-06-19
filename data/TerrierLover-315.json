@@ -1,0 +1,9 @@
+{
+  "contest": 136,
+  "handle": "TerrierLover",
+  "address": "0xc9535b697E0B430798443c6CA5A8Be257aD368b0",
+  "risk": "2",
+  "title": "``rageQuit`` function can be called when ``totalStaked`` is 0",
+  "issueId": 315,
+  "issueUrl": "https://github.com/code-423n4/2022-06-infinity-findings/issues/315"
+}
