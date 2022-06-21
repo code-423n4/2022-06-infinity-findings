@@ -1,6 +1,6 @@
 {
   "contest": 136,
-  "handle": "41414141",
+  "handle": "PwnedNoMore",
   "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
   "risk": "3",
   "title": "Some real-world NFT tokens may support both ERC721 and ERC1155 standards, which may break `InfinityExchange::_transferNFTs`",
