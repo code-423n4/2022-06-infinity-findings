@@ -1,3 +1,11 @@
+---
+sponsor: "Infinity NFT Marketplace"
+slug: "2022-06-infinity"
+date: "2022-08-16"
+title: "Infinity NFT Marketplace contest"
+findings: "https://github.com/code-423n4/2022-06-infinity-findings/issues"
+contest: 136
+---
 
 # Overview
 
